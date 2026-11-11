@@ -1,0 +1,15 @@
+C:\Users\Akerke\Downloads\FlowerShop (5)\FlowerShop\src\FlowerShop\bin\Debug\net8.0\FlowerShop.exe
+C:\Users\Akerke\Downloads\FlowerShop (5)\FlowerShop\src\FlowerShop\bin\Debug\net8.0\FlowerShop.deps.json
+C:\Users\Akerke\Downloads\FlowerShop (5)\FlowerShop\src\FlowerShop\bin\Debug\net8.0\FlowerShop.runtimeconfig.json
+C:\Users\Akerke\Downloads\FlowerShop (5)\FlowerShop\src\FlowerShop\bin\Debug\net8.0\FlowerShop.dll
+C:\Users\Akerke\Downloads\FlowerShop (5)\FlowerShop\src\FlowerShop\bin\Debug\net8.0\FlowerShop.pdb
+C:\Users\Akerke\Downloads\FlowerShop (5)\FlowerShop\src\FlowerShop\obj\Debug\net8.0\FlowerShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akerke\Downloads\FlowerShop (5)\FlowerShop\src\FlowerShop\obj\Debug\net8.0\FlowerShop.AssemblyInfoInputs.cache
+C:\Users\Akerke\Downloads\FlowerShop (5)\FlowerShop\src\FlowerShop\obj\Debug\net8.0\FlowerShop.AssemblyInfo.cs
+C:\Users\Akerke\Downloads\FlowerShop (5)\FlowerShop\src\FlowerShop\obj\Debug\net8.0\FlowerShop.csproj.CoreCompileInputs.cache
+C:\Users\Akerke\Downloads\FlowerShop (5)\FlowerShop\src\FlowerShop\obj\Debug\net8.0\FlowerShop.dll
+C:\Users\Akerke\Downloads\FlowerShop (5)\FlowerShop\src\FlowerShop\obj\Debug\net8.0\refint\FlowerShop.dll
+C:\Users\Akerke\Downloads\FlowerShop (5)\FlowerShop\src\FlowerShop\obj\Debug\net8.0\FlowerShop.pdb
+C:\Users\Akerke\Downloads\FlowerShop (5)\FlowerShop\src\FlowerShop\obj\Debug\net8.0\FlowerShop.genruntimeconfig.cache
+C:\Users\Akerke\Downloads\FlowerShop (5)\FlowerShop\src\FlowerShop\obj\Debug\net8.0\ref\FlowerShop.dll
+C:\Users\Akerke\Downloads\FlowerShop (5)\FlowerShop\src\FlowerShop\obj\Debug\net8.0\FlowerShop.csproj.Up2Date

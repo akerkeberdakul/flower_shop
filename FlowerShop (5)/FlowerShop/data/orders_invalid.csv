@@ -1,0 +1,8 @@
+OrderId,Customer,Flower,Quantity,DistanceKm,IsMember
+B1,Aigerim,Rose,10,5,false
+B2,Dana,Orchid,10,5,false
+B3,Marat,Lily,abc,5,false
+B4,,Tulip,10,5,false
+B5,Sara,Rose,10,-3,false
+B6,Timur,Rose,10,5
+B7,Alina,Rose,10,5,maybe
